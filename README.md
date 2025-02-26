@@ -84,7 +84,3 @@ Access the API at **`http://127.0.0.1:5000`** 🚀
 
 ## **License**  
 MIT License © 2025 AI-Powered Tax Assistant  
-
----
-
-This **README** provides a structured overview for GitHub. Let me know if you need any modifications! 🚀
